@@ -31,15 +31,15 @@ A cross-platform habit-tracking app built with React Native (Expo), Django (REST
 1. **Clone the Repository**
    ```bash
    git clone <your-repository-url>
-   cd habit-tracker-app```
+   cd habit-tracker-app
 
 2. **Set Up Frontend (React Native)**
    ```cd frontend
-   npm install```
+   npm install
 
 3. **Set Up Backend (Django)**
    ```cd ../backend
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 
 Project Structure
 
