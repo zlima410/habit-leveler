@@ -1,0 +1,5 @@
+backend/.env
+frontend/.env
+backend/habit-leveler-firebase-adminsdk-94sth-543759c037.json
+node_modules/
+__pycache__/
