@@ -31,19 +31,19 @@ A cross-platform habit-tracking app built with React Native (Expo), Django (REST
 1. **Clone the Repository**
    ```bash
    git clone <your-repository-url>
-   cd habit-tracker-app
+   cd habit-tracker-app```
 
 2. **Set Up Frontend (React Native)**
    ```cd frontend
-   npm install
+   npm install```
 
 3. **Set Up Backend (Django)**
    ```cd ../backend
-   pip install -r requirements.txt
+   pip install -r requirements.txt```
 
 Project Structure
 
-habit-tracker-app/
+```habit-tracker-app/
 ├── frontend/                 # React Native frontend
 │   ├── src/                  # React Native source files
 │   ├── .env                  # Environment variables for Firebase
@@ -51,7 +51,7 @@ habit-tracker-app/
 └── backend/                  # Django backend
     ├── habits/               # Django app for habits feature
     ├── .env                  # Environment variables for Django
-    └── settings.py           # Django settings file
+    └── settings.py           # Django settings file```
 
 Security and Sensitive Data
 
